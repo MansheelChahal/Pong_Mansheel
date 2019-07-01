@@ -70,7 +70,7 @@ public class Pong extends Applet implements Runnable, KeyListener, ActionListene
 			p1.initializePaddle();
 			p2.initializePaddle();
 		}
-		if (p1.getIntScore()==1 || p2.getIntScore()==1) {  // checking score
+		if (p1.getIntScore()==3 || p2.getIntScore()==3) {  // checking score
 			gameStarted=false;
 			p1.initializeScore();
 			p2.initializeScore();
