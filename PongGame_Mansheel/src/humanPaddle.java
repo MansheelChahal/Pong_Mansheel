@@ -1,3 +1,8 @@
+/*
+ * Author: Mansheel Chahal
+ * Description: Paddle Class. this class defines the behaviour of a paddle.
+ * 
+ */
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
