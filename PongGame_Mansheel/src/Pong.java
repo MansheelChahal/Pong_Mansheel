@@ -4,17 +4,6 @@
  * 
  */
 
-/*
- * things to fix/add:
- * 		fix collision of paddles on the sides and the back  --> kind of done
- * 		make the ball dissappear when it reaches the end of the screen --> done
- * 		add a scoring system --> works
- * 		add a proper menu 
- * 		add varying speeds based on where you hit the ball from
- * 		make the file runnable
- * 		make a git account
- */
-
 import java.applet.Applet;
 import java.awt.Button;
 import java.awt.Color;
