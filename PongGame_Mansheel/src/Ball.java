@@ -1,3 +1,7 @@
+/*
+ * Author: Mansheel Chahal
+ * Description: Ball class. this class defines the behaviuor of the ball.
+ */
 import java.awt.Color;
 import java.awt.Graphics;
 
