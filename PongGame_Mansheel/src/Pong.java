@@ -18,7 +18,7 @@ import java.awt.event.KeyListener;
 public class Pong extends Applet implements Runnable, KeyListener, ActionListener{ // using applet class
 	
 	final int WIDTH=700, HEIGHT=500; //define the height and width of the application window
-	Thread thread; // ?
+	Thread thread;
 	humanPaddle p1; //player 1
 	humanPaddle p2; //player 2
 	Ball b1; // defining a ball
